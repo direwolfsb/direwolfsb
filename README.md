@@ -1,6 +1,6 @@
 # Hi there, I'm Suyog! 👋
 
-![Banner Icon](https://example.com/banner-icon.png)
+![Banner Icon]https://wallpaper.dog/large/20503214.png
 
 # Hi there, I'm Suyog! 👋
 
@@ -60,6 +60,10 @@ I am a passionate **app developer** who thrives on creating **applications** tha
 
 - **[MacroMate](https://github.com/direwolfsb/MacroMate)**  
   Nutrient Tracking Simplified.
+
+- **[Nutriplan](https://github.com/direwolfsb/NutriPlan-Nodejs-Jenkins)**  
+  NutriPlan CI/CD Meal Planner
+
 
 ### Let's Connect! 📬
 - [GitHub](https://github.com/direwolfsb)
