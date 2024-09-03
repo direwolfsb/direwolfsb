@@ -1,6 +1,4 @@
-# Hi there, I'm Suyog! 👋
 
-![Banner Icon]https://wallpaper.dog/large/20503214.png
 
 # Hi there, I'm Suyog! 👋
 
