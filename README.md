@@ -10,7 +10,7 @@ I am a passionate **app developer** who thrives on creating **applications** tha
 
 🌱 **Currently learning**: Machine Learning, DevOps, AWS, and more!  
 🔭 **Working on**: A macro tracking app for daily nutrition monitoring and various other projects in AI and web development.  
-📫 **Get in touch**: [bams@usf.edu](mailto:bams@usf.edu) | [LinkedIn](https://www.linkedin.com/in/suyog-bam-2346282b1/)  
+📫 **Get in touch**: [Website](https://direwolfsb.github.io/Personal-Portfolio/) | [bams@usf.edu](mailto:bams@usf.edu) | [LinkedIn](https://www.linkedin.com/in/suyog-bam-2346282b1/)  
 
 ## My Skills 🧠
 
