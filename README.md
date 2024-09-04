@@ -71,6 +71,11 @@ You can view and download my resume using the link below:
 - **[Nutriplan](https://github.com/direwolfsb/NutriPlan-Nodejs-Jenkins)**  
   NutriPlan CI/CD Meal Planner
 
+- **[Personal Portfolio](https://github.com/direwolfsb/Personal-Portfolio)**  
+  My personal portfolio showcasing my skills, projects, and professional experiences.
+
+
+
 
 ### Let's Connect! 📬
 - [GitHub](https://github.com/direwolfsb)
