@@ -13,11 +13,13 @@ I am a passionate **app developer** who thrives on creating **applications** tha
 📫 **Get in touch**: [Website](https://direwolfsb.github.io/Personal-Portfolio/) | [bams@usf.edu](mailto:bams@usf.edu) | [LinkedIn](https://www.linkedin.com/in/suyog-bam-2346282b1/)  
 
 ## Resume
+
 You can view and download my resume using the link below:
 
-[![Resume](https://img.icons8.com/ios-filled/50/000000/resume.png)](https://drive.google.com/file/d/1WRkNxIdktXeDE8PsLfFOyjqqdSeWdoM5/view?usp=drive_link)
+[![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1WRkNxIdktXeDE8PsLfFOyjqqdSeWdoM5/view?usp=drive_link)
 
 *Click the icon above to access my resume.*
+
 
 ## My Skills 🧠
 
