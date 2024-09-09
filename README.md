@@ -16,7 +16,7 @@ I am a passionate **app developer** who thrives on creating **applications** tha
 
 You can view and download my resume using the link below:
 
-[![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1WRkNxIdktXeDE8PsLfFOyjqqdSeWdoM5/view?usp=drive_link)
+[![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1ndWaR_u8KjnGbSy3TAp1EonIRR0l_nsy/view?usp=drive_link)
 
 *Click the icon above to access my resume.*
 
@@ -25,6 +25,7 @@ You can view and download my resume using the link below:
 
 ![Web Development](https://img.shields.io/badge/Web%20Development-%2312100E.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-%230A66C2.svg?style=for-the-badge&logo=devops&logoColor=white)
 ![Python AI](https://img.shields.io/badge/Python%20AI-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
