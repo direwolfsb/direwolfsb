@@ -62,6 +62,10 @@ You can view and download my resume using the link below:
 
 - **[PaperBot](https://github.com/direwolfsb/PaperBot)**  
   Surf the web through conversational AI.
+  
+- **[Three-Tier Application on Kubernetes with AWS ALB](https://github.com/direwolfsb/three-tier-app)**  
+  This project deploys a React frontend, an Express backend, and a MongoDB database on AWS EKS, utilizing AWS ALB for traffic routing and managed using Kubernetes. The infrastructure is cloud-hosted and scalable.
+  
 
 - **[StockSavy](https://github.com/direwolfsb/StockSavy)**  
   AI-powered Stock analysis tool.
