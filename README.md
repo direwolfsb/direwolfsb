@@ -16,7 +16,7 @@ I am a passionate **app developer** who thrives on creating **applications** tha
 
 You can view and download my resume using the link below:
 
-[![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1ndWaR_u8KjnGbSy3TAp1EonIRR0l_nsy/view?usp=drive_link)
+[![Resume](https://img.icons8.com/color/48/000000/resume.png)](https://drive.google.com/file/d/1Ad57oflBnk8hH7hhe7-80wM_vzyMEfru/view?usp=drive_link)
 
 *Click the icon above to access my resume.*
 
